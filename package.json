@@ -1,0 +1,1 @@
+{"description":"Primetach Watches WhatsApp Cloud API bot: fixed replies first, Gemini AI fallback for other questions.","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"primetach-whatsapp-bot","scripts":{"start":"node server.js","test":"node test-local.js"},"version":"1.0.0"}
